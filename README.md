@@ -10,11 +10,10 @@
 ! Full Stack Dev and Security Analyst
 # A curious developer interested in programming and cybersecurity.
 
-
 ```
 
-### 🛠 **My Tools:**
-<h2></h2>
+## 🛠 **My Tools**
+
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,19 +37,18 @@
 
 </div>
 
-### 🌐 Socials
-<h2></h2>
+## 🌐 Socials
+
 
 <div align="center">
 
-
-![Gmail](https://img.shields.io/badge/Email%20-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter%20-%23000000?style=for-the-badge&logo=x&logoColor=white) 
-![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Twitter](https://img.shields.io/badge/Twitter-000.svg?style=for-the-badge&logo=X&logoColor=E7E9EA)](https://x.com/marcelo_hck)
+[![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/marcelovictor-ap/)
+[![Email](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:marcelovapedrosa@gmail.com)
 
 
 </div>
+
 
 
 
